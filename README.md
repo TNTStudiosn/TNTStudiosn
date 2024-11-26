@@ -2,9 +2,7 @@
 
 Somos [TNTStudios](https://tntstudios.space/), una empresa dinámica dedicada a crear experiencias digitales únicas y de calidad. Nos especializamos en ofrecer soluciones adaptativas y versátiles en diversos campos del contenido digital.
 
-## 🚀 Actividad Reciente
-  
-### 🧑‍💻 Lenguajes Más Usados
+## 🧑‍💻 Lenguajes Usados
 ![Lenguajes más usados](https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&count_private=true)
 
 ## 🚀 Sobre TNTStudios
