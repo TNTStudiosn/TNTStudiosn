@@ -1,6 +1,6 @@
-# 👋 ¡Bienvenido a mi perfil de GitHub!
+# ¡Tu Imaginacion, Nuestra Creacion!
 
-Soy [Tu Nombre], desarrollador en [TNTStudios](https://tntstudios.space/), una empresa dinámica dedicada a crear experiencias digitales únicas y de calidad. Nos especializamos en ofrecer soluciones adaptativas y versátiles en diversos campos del contenido digital.
+Somos [TNTStudios](https://tntstudios.space/), una empresa dinámica dedicada a crear experiencias digitales únicas y de calidad. Nos especializamos en ofrecer soluciones adaptativas y versátiles en diversos campos del contenido digital.
 
 ## 🚀 Sobre TNTStudios
 
@@ -11,8 +11,7 @@ En [TNTStudios](https://tntstudios.space/nosotros), nos enfocamos en superar las
 Ofrecemos una amplia gama de servicios para potenciar tus proyectos digitales:
 
 - **Servidores de Minecraft**: Configuración de plugins, creación de modpacks personalizados, hosting y mantenimiento, construcción de estructuras y lobbies, y desarrollo de mods exclusivos.
-- **Servidores de Rust**: Personalización y mantenimiento de servidores, diseño de mapas personalizados.
-- **TNTLauncher para Minecraft**: Facilita la instalación de mods para jugadores, con actualizaciones ilimitadas durante el período contratado.
+- **TNTPortal para Minecraft**: Facilita la instalación de mods para jugadores, con actualizaciones ilimitadas durante el período contratado.
 - **Administración de servidores**: Staff dedicado para asegurar el correcto funcionamiento y atención de problemas en servidores de Minecraft y Rust.
 - **Construcción**: Diseño y construcción de estructuras impresionantes para servidores de Minecraft.
 - **Configuración de servidores de Discord**: Creación de servidores personalizados con sistemas de tickets, integración de bots, roles y permisos personalizados, y diseño estético acorde a tu marca.
@@ -60,15 +59,14 @@ La colaboración es clave para alcanzar la excelencia en el mundo digital. Graci
 
 - **HolyHosting**: Proveedor líder de servidores de juego, especializado en ofrecer soluciones de hosting de alta calidad.
 - **Aorus**: Marca premium de gaming impulsada por GIGABYTE, destacada por su amplia gama de productos de gaming.
-- **Tlanetiuh Media Productions**: Inspirados por Xochipilli, ofrecen servicios de impresión 3D y digital, diseño y creatividad, edición y publicidad, y arte conceptual y de personajes.
 
 Para más información sobre nuestros aliados, visita nuestra sección de [aliados](https://tntstudios.space/Aliados).
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tntstudiosn&show_icons=true&theme=radical&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tntstudiosn&layout=compact&theme=radical&count_private=true)
 
 ## 🔥 Actividad reciente
 
