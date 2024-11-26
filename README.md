@@ -4,9 +4,30 @@ Somos [TNTStudios](https://tntstudios.space/), una empresa dinámica dedicada a 
 
 ## 📊 Estadísticas de GitHub
 
+<div align="center">
+  
+### 🚀 Resumen de Actividad
 ![Estadísticas de GitHub](https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
+### 🧑‍💻 Lenguajes Más Usados
 ![Lenguajes más usados](https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&count_private=true)
+
+### 📈 Gráfica de Contribuciones
+![Snake animation](https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&count_private=true&layout=compact)
+
+---
+
+## 🏆 Logros
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=TNTStudiosn&theme=radical&column=4)
+
+---
+
+## 🚀 Actividad Semanal
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TNTStudiosn&theme=radical&count_private=true)
+
+---
 
 ## 🔥 Actividad reciente
 
