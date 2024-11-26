@@ -62,11 +62,11 @@ La colaboración es clave para alcanzar la excelencia en el mundo digital. Graci
 
 Para más información sobre nuestros aliados, visita nuestra sección de [aliados](https://tntstudios.space/Aliados).
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tntstudiosn&show_icons=true&theme=radical&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tntstudiosn&layout=compact&theme=radical&count_private=true)
+![Lenguajes más usados](https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&count_private=true)
 
 ## 🔥 Actividad reciente
 
