@@ -3,19 +3,16 @@
 Somos [TNTStudios](https://tntstudios.space/), una empresa dinámica dedicada a crear experiencias digitales únicas y de calidad. Nos especializamos en ofrecer soluciones adaptativas y versátiles en diversos campos del contenido digital.
 
 ## 🚀 Actividad Reciente
-
-<div align="center">
   
 ### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-### 🔥 Actividad Semanal
+![Estadísticas de GitHub](https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)   ### 🔥 Actividad Semanal
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TNTStudiosn&theme=radical&count_private=true)
+
+
 
 ### 🧑‍💻 Lenguajes Más Usados
 ![Lenguajes más usados](https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&count_private=true)
 
-</div>
 
 ## 🚀 Sobre TNTStudios
 
