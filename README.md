@@ -2,6 +2,18 @@
 
 Somos [TNTStudios](https://tntstudios.space/), una empresa dinámica dedicada a crear experiencias digitales únicas y de calidad. Nos especializamos en ofrecer soluciones adaptativas y versátiles en diversos campos del contenido digital.
 
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Lenguajes más usados](https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&count_private=true)
+
+## 🔥 Actividad reciente
+
+<!--START_SECTION:activity-->
+...
+<!--END_SECTION:activity-->
+
 ## 🚀 Sobre TNTStudios
 
 En [TNTStudios](https://tntstudios.space/nosotros), nos enfocamos en superar las expectativas e impulsar la innovación en el mundo digital. Nuestro equipo apasionado y colaborativo trabaja para brindar soluciones creativas e innovadoras que satisfacen las necesidades de nuestros clientes.
@@ -61,18 +73,6 @@ La colaboración es clave para alcanzar la excelencia en el mundo digital. Graci
 - **Aorus**: Marca premium de gaming impulsada por GIGABYTE, destacada por su amplia gama de productos de gaming.
 
 Para más información sobre nuestros aliados, visita nuestra sección de [aliados](https://tntstudios.space/Aliados).
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![Lenguajes más usados](https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&count_private=true)
-
-## 🔥 Actividad reciente
-
-<!--START_SECTION:activity-->
-...
-<!--END_SECTION:activity-->
 
 ## 📫 Contáctanos
 - **Twitter**: [@TuUsuario](https://x.com/TNTStudiosn)
