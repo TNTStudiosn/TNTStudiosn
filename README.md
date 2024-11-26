@@ -64,8 +64,3 @@ La colaboración es clave para alcanzar la excelencia en el mundo digital. Graci
 - **Aorus**: Marca premium de gaming impulsada por GIGABYTE, destacada por su amplia gama de productos de gaming.
 
 Para más información sobre nuestros aliados, visita nuestra sección de [aliados](https://tntstudios.space/Aliados).
-
-## 📫 Contáctanos
-- **Twitter**: [@TuUsuario](https://x.com/TNTStudiosn)
-
-¡Gracias por visitar mi perfil! Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. No dudes en contactarme.
