@@ -1,13 +1,13 @@
 # ¡Tu Imaginacion, Nuestra Creacion! 🚀
 
-Somos [TNTStudios](https://tntstudios.space/), una empresa dinámica dedicada a crear experiencias digitales únicas y de calidad. Nos especializamos en ofrecer soluciones adaptativas y versátiles en diversos campos del contenido digital.
+Somos [TNTStudios](https://tntstudiosn.space/), una empresa dinámica dedicada a crear experiencias digitales únicas y de calidad. Nos especializamos en ofrecer soluciones adaptativas y versátiles en diversos campos del contenido digital.
 
 ## 🧑‍💻 Lenguajes Usados
 ![Lenguajes más usados](https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&count_private=true)
 
 ## 🚀 Sobre TNTStudios
 
-En [TNTStudios](https://tntstudios.space/nosotros), nos enfocamos en superar las expectativas e impulsar la innovación en el mundo digital. Nuestro equipo apasionado y colaborativo trabaja para brindar soluciones creativas e innovadoras que satisfacen las necesidades de nuestros clientes.
+En [TNTStudios](https://tntstudiosn.space/nosotros), nos enfocamos en superar las expectativas e impulsar la innovación en el mundo digital. Nuestro equipo apasionado y colaborativo trabaja para brindar soluciones creativas e innovadoras que satisfacen las necesidades de nuestros clientes.
 
 ## 🛠️ Servicios que ofrecemos
 
@@ -24,7 +24,7 @@ Ofrecemos una amplia gama de servicios para potenciar tus proyectos digitales:
 - **Modelado 3D**: Desarrollo de objetos, personajes y escenarios en 3D para enriquecer tus proyectos.
 - **Venta de productos exclusivos**: Ofrecemos productos y artículos coleccionables relacionados con tu serie o evento para fortalecer tu identidad y generar ingresos adicionales.
 
-Para más detalles, visita nuestra sección de [servicios](https://tntstudios.space/nuestros-servicios).
+Para más detalles, visita nuestra sección de [servicios](https://tntstudiosn.space/ervicios).
 
 ## 🌟 Proyectos destacados
 
@@ -50,11 +50,11 @@ Hemos colaborado en diversos proyectos que reflejan nuestra creatividad y dedica
 - **MangoLand 2**
 - **TortillaLand**
 
-Puedes explorar más sobre nuestro trabajo en nuestra [página de proyectos](https://tntstudios.space/nuestro-trabajo).
+Puedes explorar más sobre nuestro trabajo en nuestra [página de proyectos](https://tntstudiosn.space/trabajo).
 
 ## 🤖 Blue AI: Nuestra inteligencia artificial
 
-[Blue AI](https://tntstudios.space/blue-ai) es nuestra plataforma de inteligencia artificial exclusiva, diseñada para impulsar y revolucionar la gama completa de servicios que ofrecemos. Desde el desarrollo de juegos hasta la administración de sistemas, pasando por el análisis de datos y la optimización de estrategias de marketing digital, Blue AI se encuentra en el corazón de casi todas nuestras operaciones, ofreciendo soluciones inteligentes que marcan la diferencia.
+[Blue AI](https://tntstudiosn.space/blue) es nuestra plataforma de inteligencia artificial exclusiva, diseñada para impulsar y revolucionar la gama completa de servicios que ofrecemos. Desde el desarrollo de juegos hasta la administración de sistemas, pasando por el análisis de datos y la optimización de estrategias de marketing digital, Blue AI se encuentra en el corazón de casi todas nuestras operaciones, ofreciendo soluciones inteligentes que marcan la diferencia.
 
 ## 🤝 Nuestros aliados
 
