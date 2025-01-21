@@ -24,7 +24,7 @@ Ofrecemos una amplia gama de servicios para potenciar tus proyectos digitales:
 - **Modelado 3D**: Desarrollo de objetos, personajes y escenarios en 3D para enriquecer tus proyectos.
 - **Venta de productos exclusivos**: Ofrecemos productos y artículos coleccionables relacionados con tu serie o evento para fortalecer tu identidad y generar ingresos adicionales.
 
-Para más detalles, visita nuestra sección de [servicios](https://tntstudiosn.space/ervicios).
+Para más detalles, visita nuestra sección de [servicios](https://tntstudiosn.space/servicios).
 
 ## 🌟 Proyectos destacados
 
