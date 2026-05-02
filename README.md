@@ -1,14 +1,17 @@
-<!-- Header -->
+<!-- TNTStudios GitHub Profile README -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:111111&height=230&section=header&text=TNTStudios&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Tu%20imaginaci%C3%B3n,%20nuestra%20creaci%C3%B3n&descAlignY=62&descSize=20" alt="TNTStudios Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,45:8A2BE2,100:111111&height=240&section=header&text=TNTStudios&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Tu%20imaginaci%C3%B3n,%20nuestra%20creaci%C3%B3n&descAlignY=60&descSize=20" alt="TNTStudios Banner" />
 </p>
 
 <p align="center">
-  <b>Estudio creativo y técnico especializado en experiencias digitales, gaming, comunidades y desarrollo a medida.</b>
+  <b>Creative & Tech Studio especializado en gaming, Minecraft, comunidades, software personalizado y experiencias digitales.</b>
 </p>
 
 <p align="center">
-  Minecraft · Mods · Plugins · Launchers · Servidores · Discord Bots · Apps · Branding · Streaming · Comunidades
+  <sub>
+    Minecraft Mods · Plugins · Launchers · Servidores · Discord Bots · Apps · Branding · Streaming · Comunidades
+  </sub>
 </p>
 
 <p align="center">
@@ -33,24 +36,48 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TNTStudiosn&style=for-the-badge&color=00ffff&label=VISITAS+AL+PERFIL" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TNTStudiosn&style=for-the-badge&color=00ffff&label=VISITAS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/TNTStudiosn?style=for-the-badge&logo=github&label=FOLLOWERS&color=8A2BE2" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/TNTStudiosn?style=for-the-badge&logo=github&label=STARS&color=00FFFF" alt="GitHub Stars" />
 </p>
 
 ---
 
+## Estadísticas
+
+<p align="center">
+  <img height="178" src="https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=TNTStudios%20GitHub%20Stats" alt="TNTStudios GitHub Stats" />
+  <img height="178" src="https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&hide_border=true&langs_count=12&custom_title=Lenguajes%20principales" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TNTStudiosn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=860" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TNTStudiosn&theme=react-dark&hide_border=true&area=true&radius=16&custom_title=Actividad%20de%20TNTStudios" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TNTStudiosn&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## Sobre TNTStudios
 
-**TNTStudios** es un estudio fundado para transformar ideas en experiencias digitales completas: desde servidores de Minecraft y eventos para creadores, hasta herramientas, launchers, bots, sistemas personalizados, diseño visual y soluciones técnicas para comunidades.
+**TNTStudios** es un estudio creativo y técnico enfocado en transformar ideas en experiencias digitales completas.
 
-Nos especializamos en unir **desarrollo, creatividad y operación** para que cada proyecto no solo funcione, sino que se sienta profesional, estable y memorable.
+Creamos soluciones para **creadores de contenido, comunidades, servidores, eventos digitales y proyectos gaming**, combinando desarrollo, diseño, operación técnica y experiencia de usuario.
+
+Nuestro trabajo vive entre dos mundos:  
+**la creatividad de una comunidad** y **la precisión técnica de un producto bien construido**.
 
 > **Tu imaginación, nuestra creación.**
 
 ---
 
-## Especialidades
+## Qué hacemos
 
 <table>
 <tr>
@@ -63,7 +90,7 @@ Nos especializamos en unir **desarrollo, creatividad y operación** para que cad
 - Servidores personalizados
 - Modpacks privados y públicos
 - Optimización de rendimiento
-- Sistemas de eventos
+- Sistemas para eventos
 - Series para creadores
 - Configuración técnica completa
 
@@ -79,7 +106,7 @@ Nos especializamos en unir **desarrollo, creatividad y operación** para que cad
 - Paneles administrativos
 - Integraciones con APIs
 - Herramientas internas
-- Automatización de flujos
+- Automatización de procesos
 
 </td>
 </tr>
@@ -119,36 +146,35 @@ Nos especializamos en unir **desarrollo, creatividad y operación** para que cad
 
 ## Ecosistema TNTStudios
 
-### TNTPortal
-
-**TNTPortal** es nuestro launcher personalizado para Minecraft, creado para facilitar la instalación, actualización y acceso a experiencias con mods, eventos privados y servidores personalizados.
-
-Su objetivo es reducir la fricción técnica para los jugadores y permitir que comunidades completas entren a una experiencia preparada sin instalaciones manuales complicadas.
-
-<p align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>TNTPortal</h3>
+  <p>Launcher personalizado para Minecraft, creado para facilitar el acceso a experiencias con mods, eventos privados y servidores personalizados.</p>
   <a href="https://tntstudios.space/tntportal">
     <img src="https://img.shields.io/badge/Conocer%20TNTPortal-00FFFF?style=for-the-badge&logo=minecraft&logoColor=black" alt="TNTPortal" />
   </a>
-</p>
-
-### Servicios TNTStudios
-
-Creamos soluciones para proyectos digitales, comunidades, creadores de contenido, eventos y servidores.
-
-<p align="center">
+</td>
+<td align="center" width="33%">
+  <h3>Servicios</h3>
+  <p>Soluciones digitales para creadores, comunidades, servidores, eventos y marcas que buscan una experiencia más profesional.</p>
   <a href="https://tntstudios.space/servicios">
     <img src="https://img.shields.io/badge/Ver%20servicios-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Servicios" />
   </a>
+</td>
+<td align="center" width="33%">
+  <h3>Trabajos</h3>
+  <p>Proyectos, eventos, servidores y experiencias donde hemos participado con desarrollo, operación, diseño o soporte técnico.</p>
   <a href="https://tntstudios.space/work">
-    <img src="https://img.shields.io/badge/Ver%20trabajos-00FFFF?style=for-the-badge&logo=starship&logoColor=black" alt="Trabajos" />
+    <img src="https://img.shields.io/badge/Ver%20trabajos-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="Trabajos" />
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Proyectos, eventos y comunidades
-
-Hemos participado en proyectos y experiencias para comunidades de gaming, creadores de contenido y eventos digitales.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rustiza2-111111?style=for-the-badge" />
@@ -170,73 +196,52 @@ Hemos participado en proyectos y experiencias para comunidades de gaming, creado
   <img src="https://img.shields.io/badge/TortillaLand-111111?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://tntstudios.space/work">
+    <img src="https://img.shields.io/badge/Explorar%20experiencias-00FFFF?style=for-the-badge&logo=firefox&logoColor=black" alt="Explorar experiencias" />
+  </a>
+</p>
+
 ---
 
-## Creadores y comunidades
-
-TNTStudios ha trabajado en experiencias para creadores, comunidades y eventos con alto enfoque en estabilidad, identidad visual y experiencia de usuario.
+## Para creadores y comunidades
 
 <table>
 <tr>
-<td align="center" width="33%">
-  <b>Series de Minecraft</b><br/>
-  Eventos, servidores, mods, sistemas y launchers.
+<td align="center" width="25%">
+  <h3>Series</h3>
+  <p>Eventos, servidores, mods, misiones, sistemas y herramientas para series de Minecraft y gaming.</p>
 </td>
-<td align="center" width="33%">
-  <b>Comunidades de Rust</b><br/>
-  Administración, soporte, eventos y operación.
+<td align="center" width="25%">
+  <h3>Comunidades</h3>
+  <p>Soporte, administración, operación y sistemas para comunidades activas.</p>
 </td>
-<td align="center" width="33%">
-  <b>Creadores de contenido</b><br/>
-  Herramientas, overlays, edición, branding y experiencias.
+<td align="center" width="25%">
+  <h3>Creadores</h3>
+  <p>Launchers, overlays, edición, branding, automatizaciones y experiencias interactivas.</p>
+</td>
+<td align="center" width="25%">
+  <h3>Marcas</h3>
+  <p>Soluciones visuales, técnicas y operativas para proyectos digitales con identidad propia.</p>
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://tntstudios.space/work">
-    <img src="https://img.shields.io/badge/Explorar%20experiencias-00FFFF?style=for-the-badge&logo=firefox&logoColor=black" alt="Experiencias TNTStudios" />
-  </a>
-</p>
 
 ---
 
 ## Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,rust,js,ts,nodejs,vue,react,html,css,tailwind,python,mongodb,mysql,sqlite,linux,ubuntu,docker,nginx,cloudflare,git,github,figma,blender,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,maven,rust,js,ts,nodejs,vue,react,html,css,tailwind,python,mongodb,mysql,sqlite,linux,ubuntu,docker,nginx,cloudflare,git,github,figma,blender,vscode,idea" alt="Tech Stack" />
 </p>
-
-### Áreas técnicas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft%20Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/Server%20Optimization-00FFFF?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Development-8A2BE2?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game%20Communities-111111?style=for-the-badge&logo=gamejolt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative%20Direction-FF00AA?style=for-the-badge&logo=adobecreativecloud&logoColor=white" />
-</p>
-
----
-
-## Estadísticas de GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-iota-pied-27.vercel.app/api?username=TNTStudiosn&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="TNTStudios GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-iota-pied-27.vercel.app/api/top-langs/?username=TNTStudiosn&layout=compact&theme=radical&hide_border=true&langs_count=12" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TNTStudiosn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TNTStudiosn&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TNTStudiosn&theme=react-dark&hide_border=true&area=true&custom_title=Actividad%20de%20TNTStudios" alt="GitHub Activity Graph" />
+  <img src="https://img.shields.io/badge/Launchers-111111?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Communities-FF00AA?style=for-the-badge&logo=gamejolt&logoColor=white" />
 </p>
 
 ---
@@ -259,7 +264,11 @@ TNTStudios ha trabajado en experiencias para creadores, comunidades y eventos co
 
 ---
 
-## Repositorios destacados
+## Repositorios y trabajo privado
+
+Gran parte del trabajo de TNTStudios se desarrolla en repositorios privados por acuerdos con clientes, eventos, creadores y comunidades.
+
+Aun así, este perfil reúne parte del ecosistema técnico, herramientas públicas, documentación, licencias y proyectos relacionados con nuestra operación.
 
 <p align="center">
   <a href="https://github.com/TNTStudiosn/TNTPortalNew">
@@ -302,17 +311,15 @@ TNTStudios ha trabajado en experiencias para creadores, comunidades y eventos co
 
 ## Aliados
 
-Colaboramos con marcas y aliados que comparten nuestra visión de calidad, rendimiento y comunidad.
-
 <table>
 <tr>
 <td align="center" width="50%">
-  <b>HolyHosting</b><br/>
-  Hosting para servidores de juego y soluciones técnicas para comunidades.
+  <h3>HolyHosting</h3>
+  <p>Hosting para servidores de juego y soluciones técnicas para comunidades.</p>
 </td>
 <td align="center" width="50%">
-  <b>AORUS</b><br/>
-  Ecosistema gaming impulsado por GIGABYTE.
+  <h3>AORUS</h3>
+  <p>Ecosistema gaming impulsado por GIGABYTE.</p>
 </td>
 </tr>
 </table>
@@ -342,7 +349,7 @@ Colaboramos con marcas y aliados que comparten nuestra visión de calidad, rendi
 
 <p align="center">
   <b>TNTStudios</b><br/>
-  Tu imaginación, nuestra creación.
+  <sub>Tu imaginación, nuestra creación.</sub>
 </p>
 
 <p align="center">
@@ -352,5 +359,5 @@ Colaboramos con marcas y aliados que comparten nuestra visión de calidad, rendi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:8A2BE2,100:00FFFF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,55:8A2BE2,100:00FFFF&height=120&section=footer" />
 </p>
